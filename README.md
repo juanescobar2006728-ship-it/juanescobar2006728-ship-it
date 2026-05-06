@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan</h1>
-<h3 align="center">Estudiante de ingenieria en software🌟.</h3>
+<h3 align="center">Estudiante de ingenieria en software 🌟.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Estoy aprendiendo lo basico aun, espero poder adquirir mas conocimiento
+- 🌱 Boca sho te amo
 
 - 📫 Como contactarme **juanescobar2006728@gmail.com**
 
