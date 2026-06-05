@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan</h1>
-//<h3 align="center">Estudiante de ingenieria en software .</h3>//
+<h3 align="center">Estudiante de ingenieria en software .</h3>
 
 <br>
 
